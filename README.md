@@ -1,12 +1,26 @@
- ## Amazon Sales Analysis using Excel & Python
+#  Amazon Sales Analysis using Excel & Python
 
- ## Project Overview
+## Project Overview
 
-This project was completed during the **DevTown Excel to Python Analytics Bootcamp**.
+This project was completed as part of the **DevTown Excel to Python Analytics Bootcamp**.
 
-The objective was to analyze Amazon sales data using both **Microsoft Excel** and **Python** to answer business questions and generate actionable insights.
+The objective of this project was to analyze Amazon sales data using both **Microsoft Excel** and **Python** to answer business questions, identify sales trends, and generate meaningful business insights.
 
-## Tools & Technologies
+The same analysis was performed using Excel and Python to understand different approaches to data analytics.
+
+
+
+##  Objectives
+
+- Analyze Amazon sales data
+- Answer 15 real-world business questions
+- Perform data cleaning and preprocessing
+- Compare Excel and Python workflows
+- Generate business insights through data visualization
+
+
+
+##  Tools & Technologies
 
 - Microsoft Excel
 - Python
@@ -17,44 +31,85 @@ The objective was to analyze Amazon sales data using both **Microsoft Excel** an
 
 
 
-## Dataset
-
-Amazon Sales Dataset
+##  Repository Structure
 
 
+Amazon-Sales-Analysis/
+│
+├── amazon.xlsx                 # Dataset
+├── Amazon_Sales_Analysis.ipynb # Python Analysis Notebook
+├── Business_Questions.docx     # Business Questions & Answers
+└── README.md
+```
 
-## Business Questions
+## Analysis Performed
 
-This project answers 15 business questions, including:
+The project focuses on solving business problems through data analysis.
 
-- Sales trends
-- Top-performing products
+Some of the analyses include:
+
+- Sales trend analysis
 - Revenue analysis
 - Category-wise sales
-- Profit insights
-- Customer purchasing patterns
+- Product performance
+- Customer purchasing behaviour
+- Monthly sales trends
+- Profit analysis
+- Regional performance
+- Business insights through visualizations
 
+A total of **15 business questions** were answered using both Excel and Python.
 
+---
 
-##  Repository Contents
+##  Python Libraries Used
 
-- `amazon.xlsx` – Dataset
-- `Amazon_Sales_Analysis.ipynb` – Python analysis
-- `Business_Questions.docx` – Business questions and solutions
+- NumPy
+- Pandas
+- Matplotlib
 
-
+---
 
 ##  Skills Demonstrated
 
 - Data Cleaning
-- Data Analysis
+- Exploratory Data Analysis (EDA)
 - Data Visualization
-- Excel Analytics
+- Business Analytics
+- Excel Dashboards
 - Python Programming
 - Business Insight Generation
 
+---
 
+##  What I Learned
+
+Through this project, I learned how to:
+
+- Perform data analysis using both Excel and Python
+- Use Pandas for data manipulation
+- Create visualizations with Matplotlib
+- Compare analytical workflows in Excel and Python
+- Interpret data to support business decisions
+
+---
+
+##  Future Improvements
+
+- Add interactive Power BI dashboard
+- Perform advanced visualizations using Seaborn
+- Build an interactive dashboard using Plotly
+- Automate report generation
+- Deploy the project as a web dashboard
+
+---
 
 ##  About Me
 
-I am a B.Tech Computer Science student passionate about Data Analytics, AI, and Open Source. This project reflects my journey in learning analytics using both Excel and Python.
+I'm Madhuri Sharma, a B.Tech Computer Science student passionate about **Data Analytics, Artificial Intelligence, Open Source, and Management**.
+
+I enjoy solving real-world business problems using data and continuously expanding my technical and analytical skills.
+
+📫 Feel free to connect with me on LinkedIn and explore my GitHub projects!
+
+⭐ If you found this project useful, consider giving it a star!
